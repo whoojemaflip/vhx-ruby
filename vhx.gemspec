@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'vhx/version'
 
 Gem::Specification.new do |spec|
-  spec.name           = 'vhx-ruby'
+  spec.name           = 'vhx'
   spec.version        = Vhx::VERSION
   spec.authors        = ['Vimeo OTT Developers']
   spec.date           = '2020-01-27'
